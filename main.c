@@ -3,5 +3,10 @@
 
 int main() 
 {
+    int number_1, number_2;
+
+    printf("Enter two integers: ");
+    scanf("%d %d", &number_1, &number_2);
+
     return 0;
 }
