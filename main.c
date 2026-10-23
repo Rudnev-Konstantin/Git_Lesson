@@ -8,7 +8,7 @@ int main()
     printf("Enter two integers: ");
     scanf("%d %d", &number_1, &number_2);
 
-    printf("Sum: %d\n", number_1 + number_2);
+    printf("Sum: %d\n", number_1 - number_2);
 
     return 0;
 }
